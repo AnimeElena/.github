@@ -1,2 +1,2 @@
 ## Hi there 👋
-![](https://github.com/AnimeElega/.github/main/profile/Elena.jpg)
+![](https://raw.githubusercontent.com/AnimeElena/.github/main/profile/Elena.jpg)
