@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![](/Elena.jpg)
+![](.Elena.jpg)
