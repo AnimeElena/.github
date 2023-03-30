@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![](Elena.jpg)
+![](https://github.com/AnimeElena/.github/tree/main/profile/Elena.jpg)
